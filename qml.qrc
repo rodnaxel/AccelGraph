@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Plotter.qml</file>
+        <file>PToolbar.qml</file>
+        <file>PToolButton.qml</file>
+    </qresource>
+</RCC>
